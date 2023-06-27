@@ -3,7 +3,8 @@ import matplotlib
 import matplotlib.pyplot as plt 
 import scipy as sp
 import matplotlib.animation as animation
-  
+  #this is a test comment
+#alpha = np.array([1,2,3,4,5])
 class Pendulum:
     def __init__(self, theta1, theta2, dt):
         self.theta1 = theta1
